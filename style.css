@@ -1,0 +1,36 @@
+h1 {
+    color:blue
+}
+
+
+.header{
+background-color: burlywood;
+border:solid;
+
+
+border-color: coral;
+display: flex;
+justify-content: space-between;
+}
+
+.header2{
+    border:solid;
+    border-color: crimson;
+}
+
+.header3{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.subheader{
+    border:solid;
+    border-color: cyan;
+
+}
+
+p,h2{
+    text-align: center;
+}
